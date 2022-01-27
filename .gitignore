@@ -1,0 +1,4 @@
+node_modules
+.env
+Bank/misc.txt
+node-console.txt
